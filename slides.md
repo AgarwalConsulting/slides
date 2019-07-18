@@ -6,45 +6,16 @@ layout: true
 
 class: center, middle
 
-# {title}
-
-Gaurav Agarwal
+# A raw .md presenter
 
 ---
-
-# Agenda
-
----
-
 class: center, middle
+
+## Created By: Gaurav Agarwal
 
 ![Me](assets/images/me.png)
 
-Software Engineer & Product Developer
-
-Principal Consultant & Founder @ https://agarwalconsulting.io
-
-ex-Tarka Labs, ex-BrowserStack, ex-ThoughtWorks
-
 ---
-class: center, middle
-
-```golang
-package main
-
-import "fmt"
-
-func main() {
-  fmt.Println("Hello, world!")
-}
-```
-
----
-
-class: center, middle
 
 Code
-https://github.com/algogrit/presentation-template
-
-Slides
-https://template.slides.algogrit.com
+https://github.com/AgarwalConsulting/slides
